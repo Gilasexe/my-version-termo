@@ -1,0 +1,15 @@
+hi there, just a few instructions if you want to execute in any pc (Windows)
+
+pyinstaller --onefile --name termo_beta_v1 termo_demo.py
+
+this line of code will make your termo demo a executable file, you will need
+the pyinstaller first
+
+pip install pyinstaller
+
+this line will install the pyinstaller for you, then you can make the executable
+of the ia version as well
+
+pyinstaller --onefile --name termo_beta_v1_ia termo_demo_ia.py
+
+just rename it if necessary, anyway, enjoy it!
